@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notely</string>
+    <string name="new_note">New note</string>
+    <string name="title_hint">Title</string>
+    <string name="body_hint">Start writing…</string>
+    <string name="delete">Delete</string>
+    <string name="delete_note_q">Delete this note?</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_notes">No notes yet.\nTap + to create one.</string>
+    <string name="recording">Recording…</string>
+    <string name="stop_insert">Stop &amp; insert</string>
+    <string name="mic_permission_needed">Microphone permission is needed to record audio.</string>
+</resources>
